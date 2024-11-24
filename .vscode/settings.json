@@ -1,0 +1,22 @@
+{
+    "Lua.diagnostics.globals": [
+        "STANDARD_TEXT_FONT",
+        "FloatingChatFrame_OnMouseScroll",
+        "LE_PARTY_CATEGORY_HOME",
+        "LE_PARTY_CATEGORY_INSTANCE",
+        "CombatText_AddMessage",
+        "COMBAT_TEXT_SCROLL_FUNCTION",
+        "CooldownFrame_Set",
+        "DebuffTypeColor",
+        "CLASS_ICON_TCOORDS",
+        "MACRO",
+        "TARGET",
+        "FOCUS",
+        "SlashCmdList",
+        "MANA",
+        "RAGE",
+        "ENERGY",
+        "CHI",
+        "RUNIC_POWER"
+    ]
+}
