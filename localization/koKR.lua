@@ -1,4 +1,4 @@
-﻿local L = LibStub("AceLocale-3.0"):NewLocale("GladiusEx", "koKR", true)
+﻿local L = LibStub("AceLocale-3.0"):NewLocale("GladiusEx", "koKR")
 
 L[" |T%s:20|t %s [%ss] %s"] = "|T%s:20|t %s [%ss] %s"
 L["%s settings"] = "%s 설정"

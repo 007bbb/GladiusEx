@@ -26,7 +26,7 @@ if L then
 --@localization(locale="itIT", format="lua_additive_table", handle-subnamespaces="concat", same-key-is-true="true")@
 end
 
-L = locale:NewLocale("GladiusEx", "enUS")
+L = locale:NewLocale("GladiusEx", "koKR")
 if L then
 --@localization(locale="koKR", format="lua_additive_table", handle-subnamespaces="concat", same-key-is-true="true")@
 end
