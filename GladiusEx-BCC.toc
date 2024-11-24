@@ -10,7 +10,6 @@
 
 embeds-bcc.xml
 templates.xml
-localization\enUS.lua
 localization\koKR.lua
 localization\locales.lua
 GladiusEx.lua
